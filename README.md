@@ -5,3 +5,5 @@
 - https://pubs.acs.org/doi/10.1021/acsmedchemlett.4c00380
 - https://link.springer.com/article/10.1007/s12272-015-0640-5#Sec2
 - https://www.beilstein-journals.org/bjoc/articles/12/267
+- [colab notebook](https://colab.research.google.com/github/MolSSI-Education/iqb-2025/blob/main/04_Cheminfo_crash_course.ipynb)
+
